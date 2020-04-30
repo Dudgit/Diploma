@@ -8,3 +8,7 @@ A myheaderben igazából csak az előre megírt függvények vannak, nem akartam
 Itt végzem elvileg az áttanítást.
 A kangoroo.h5 modellt nem engedi feltölteni, mert túl nagy,de belinkelem az elérhetőségét:
 https://drive.google.com/drive/folders/1pQNZ9snByUOMjvEf7Td8Zg1qvBAVhWZ8
+
+
+## Runner
+Ezt a notebookot, még akkor csináltam, amikor parancssorból próbáltam futtatni a YOLO-t. Vannak YOLO modellek, ami a runner által létrehozott listákból tudja illeszteni a modellt. Hátha szükség lesz rá később
