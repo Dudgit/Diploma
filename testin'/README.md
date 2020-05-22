@@ -25,4 +25,4 @@ A utils mappában átírtam, ami nem működik, és a config_raccoon.json -t has
     self.log_dir, self.model._get_distribution_strategy())  # pylint: disable=protected-access  
 AttributeError: 'Model' object has no attribute '_get_distribution_strategy'  
 
-# Itt viszont nem tudom, hogy mit kéne átírnom 
+# Itt viszont nem tudom, hogy mire kéne átírnom, ha jól értem a max_que_size-zal van valami problémája
